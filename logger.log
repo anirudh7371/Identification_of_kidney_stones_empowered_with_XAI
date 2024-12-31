@@ -1,0 +1,28 @@
+[2024-12-31 10:04:50,048]: Creating directory; .github/workflows for the file: .gitkeep
+[2024-12-31 10:04:50,049]: Creating empty file: .github/workflows/.gitkeep
+[2024-12-31 10:04:50,049]: Creating directory; src/KidneyStoneClassification for the file: __init__.py
+[2024-12-31 10:04:50,050]: Creating empty file: src/KidneyStoneClassification/__init__.py
+[2024-12-31 10:04:50,050]: Creating directory; src/KidneyStoneClassification/components for the file: __init__.py
+[2024-12-31 10:04:50,050]: Creating empty file: src/KidneyStoneClassification/components/__init__.py
+[2024-12-31 10:04:50,050]: Creating directory; src/KidneyStoneClassification/utils for the file: __init__.py
+[2024-12-31 10:04:50,050]: Creating empty file: src/KidneyStoneClassification/utils/__init__.py
+[2024-12-31 10:04:50,050]: Creating directory; src/KidneyStoneClassification/config for the file: __init__.py
+[2024-12-31 10:04:50,050]: Creating empty file: src/KidneyStoneClassification/config/__init__.py
+[2024-12-31 10:04:50,050]: Creating directory; src/KidneyStoneClassification/config for the file: configuration.py
+[2024-12-31 10:04:50,050]: Creating empty file: src/KidneyStoneClassification/config/configuration.py
+[2024-12-31 10:04:50,050]: Creating directory; src/KidneyStoneClassification/pipeline for the file: __init__.py
+[2024-12-31 10:04:50,050]: Creating empty file: src/KidneyStoneClassification/pipeline/__init__.py
+[2024-12-31 10:04:50,050]: Creating directory; src/KidneyStoneClassification/entity for the file: __init__.py
+[2024-12-31 10:04:50,051]: Creating empty file: src/KidneyStoneClassification/entity/__init__.py
+[2024-12-31 10:04:50,051]: Creating directory; src/KidneyStoneClassification/constants for the file: __init__.py
+[2024-12-31 10:04:50,051]: Creating empty file: src/KidneyStoneClassification/constants/__init__.py
+[2024-12-31 10:04:50,051]: Creating directory; config for the file: config.yaml
+[2024-12-31 10:04:50,051]: Creating empty file: config/config.yaml
+[2024-12-31 10:04:50,051]: Creating empty file: dvc.yaml
+[2024-12-31 10:04:50,051]: Creating empty file: params.yaml
+[2024-12-31 10:04:50,051]: Creating empty file: requirements.txt
+[2024-12-31 10:04:50,051]: Creating empty file: setup.py
+[2024-12-31 10:04:50,051]: Creating directory; research for the file: main.ipynb
+[2024-12-31 10:04:50,051]: Creating empty file: research/main.ipynb
+[2024-12-31 10:04:50,051]: Creating directory; templates for the file: index.html
+[2024-12-31 10:04:50,052]: Creating empty file: templates/index.html
